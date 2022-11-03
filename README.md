@@ -20,7 +20,9 @@ Primer proyecto de la Mission Front-End para LaunchX LATAM.
 ### 1. Formato de Especificación de Requerimientos de Software
 * 1.1. Descripción General del Requerimiento 
 * 1.2. Análisis de Requisitos y Requerimientos
-* 1.3. Fases de Planeació y Gerencia de Proyecto
+Diagrama BPM
+![Diagrama BPM](./imgBPMN-Abogabot.jpg)
+* 1.3. Fases de Planeación y Gerencia de Proyecto
 * 1.4. Levantamiento del Requerimiento Detallado (Historias de Usuario) 
 * 1.5. Diseño de la Arquitectura de Solución
  Prototipos de Interfaces de Usuario (Wireframes)
@@ -32,12 +34,17 @@ Primer proyecto de la Mission Front-End para LaunchX LATAM.
 ### 4. Diseño UX - UI (Figma)
 
 
+
 <br> <br>
 
-<img src="https://media.giphy.com/media/gj0gl6jbeDO1Z56wIa/giphy.gif" width="200"/> 
-
+<img src="https://i.imgur.com/H7WKbvU.png" width="150"/> 
 <br>
 
-'Abogabot' es un proyecto realizado por Maribel Maza para la formación en Desarrollo Full-Stack de [Launch X Latam](https://github.com/Launch-X-Latam/MisionFrontEnd/tree/main/01%20-%20INTRO/practicas) , <br>Noviembre 2022 🤗
-<br><br><br>
+*'Abogabot'* es un proyecto realizado por Maribel Maza para la formación en Desarrollo Full-Stack de [Launch X Latam](https://github.com/Launch-X-Latam/MisionFrontEnd/tree/main/01%20-%20INTRO/practicas) , <br>Noviembre 2022 🤗
+<br><br>
+
+<img src="https://media.giphy.com/media/gj0gl6jbeDO1Z56wIa/giphy.gif" width="100"/> 
+<br>
 <a href="https://www.linkedin.com/in/maribel-maza/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/mysticBel"><img alt="Github" src="https://img.shields.io/github/followers/mysticBel?label=follow&style=social"/></a> &nbsp;
+
+
