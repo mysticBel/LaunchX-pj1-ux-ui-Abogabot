@@ -48,7 +48,7 @@ Primer proyecto de la Mission Front-End para LaunchX LATAM.
      ![Diagrama BPM](./imgBPMN-Abogabot.jpg)
   <br>  
 
-  **1.3. Fases de Planeación y Gerencia de Proyecto**
+  <!-- **1.3. Fases de Planeación y Gerencia de Proyecto**
 <br> 
 
   **1.4. Levantamiento del Requerimiento Detallado (Historias de Usuario)**
@@ -56,18 +56,17 @@ Primer proyecto de la Mission Front-End para LaunchX LATAM.
 
   **1.5. Diseño de la Arquitectura de Solución**
      Prototipos de Interfaces de Usuario (Wireframes)
-      
-<br>
-
+       
+<br>-->
 ## **2. Buyer Persona**
 ![Buyer Persona](./buyerPersona.png)
 Se puede observar también en el siguiente link :https://www.hubspot.es/make-my-persona?persona=-NFydqaTisj24VXlNso1
 <br>
 
-## **3. Público Objetivo**
+<!-- ## **3. Público Objetivo**
 
 ## **4. Diseño UX - UI (Figma)**
-
+ -->
 
 
 <br> <br>
