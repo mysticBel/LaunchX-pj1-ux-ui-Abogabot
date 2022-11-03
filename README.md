@@ -63,9 +63,14 @@ Primer proyecto de la Mission Front-End para LaunchX LATAM.
 Se puede observar también en el siguiente link :https://www.hubspot.es/make-my-persona?persona=-NFydqaTisj24VXlNso1
 <br>
 
-<!-- ## **3. Público Objetivo**
-
-## **4. Diseño UX - UI (Figma)**
+## **3. Público Objetivo**
+ Target Audience - Usuario de Abogabot
+     ![Target Audience](./TargetAudience-UserAbogabot.png)
+     <br>
+ Resumen de Público Objetivo
+     ![Target Audience Recap](./TargetAudienceRecap.png)
+     <br>   
+<!-- ## **4. Diseño UX - UI (Figma)**
  -->
 
 
