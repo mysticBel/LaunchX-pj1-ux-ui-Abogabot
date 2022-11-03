@@ -70,8 +70,8 @@ Se puede observar también en el siguiente link :https://www.hubspot.es/make-my-
  Resumen de Público Objetivo
      ![Target Audience Recap](./TargetAudienceRecap.png)
      <br>   
-<!-- ## **4. Diseño UX - UI (Figma)**
- -->
+## **4. Diseño UX - Wireframes (Figma)**
+  ![Figma](./wireframes-Abogabot.png)
 
 
 <br> <br>
