@@ -17,21 +17,53 @@ Primer proyecto de la Mission Front-End para LaunchX LATAM.
 
 # *Desarrollo*
 
-### 1. Formato de Especificación de Requerimientos de Software
-* 1.1. Descripción General del Requerimiento 
-* 1.2. Análisis de Requisitos y Requerimientos
-Diagrama BPM
-![Diagrama BPM](./imgBPMN-Abogabot.jpg)
-* 1.3. Fases de Planeación y Gerencia de Proyecto
-* 1.4. Levantamiento del Requerimiento Detallado (Historias de Usuario) 
-* 1.5. Diseño de la Arquitectura de Solución
- Prototipos de Interfaces de Usuario (Wireframes)
+### **1. Formato de Especificación de Requerimientos de Software**
 
-### 2. Buyer Persona
+  **1.1. Descripción General del Requerimiento**
+   <br>
+  - PROYECTO : "ABOGABOT"
+  - Objetivo : 
+      - Reducir el tiempo de trámite y visualización del proceso por parte del cliente en un 90% con respecto al primer semestre del 2022.
+      - Automatizar las demandas del cliente y mantener un registro virtual de todos los procesos del despacho de abogados para un facil acceso a la documentación.
+  - Medios   : Aplicación web responsiva , Dashboard con Registros de Procesos Legales Iniciados/En proceso
+  - Usuario  :  
+      - El **cliente** registrado en la plataforma  
+      - El **administrador** que da el mantenimiento al sistema
+  - Sistema  :  
+      - Registra los datos del usuario y almacena para para realizar seguimiento.
+      - Cobra por el servicio y registra la transacción.
+      - La información puede ser visualizada desde cualquier dispositivo / navegador.
+      - El sistema procesa y envía información al Administrador.
+      - El sistema puede generar un reporte (Documento de Word) cada que exista una nueva demanda, y será visualizada en un dashboard que solo tendrá acceso el Administrador
+      - En cada actualización de la demanda, se le notificará al usuario-cliente sobre el avance de su proceso(porcentaje de progreso).
+       - Cada usuario puede interactúar a través de la plataforma y enviar/recibir mensajes sobre su proceso.
+      - Cada usuario cuenta con un perfil de usuario, y podrá ver el historial de sus procesos legales cuando lo desee.  
+  - Responsable Funcional : Maribel Maza Auccatinco
 
-### 3. Público Objetivo
+<br>
 
-### 4. Diseño UX - UI (Figma)
+  **1.2. Análisis de Requisitos y Requerimientos**
+<br>
+     Diagrama BPM
+     ![Diagrama BPM](./imgBPMN-Abogabot.jpg)
+  <br>  
+
+  **1.3. Fases de Planeación y Gerencia de Proyecto**
+<br> 
+
+  **1.4. Levantamiento del Requerimiento Detallado (Historias de Usuario)**
+<br>  
+
+  **1.5. Diseño de la Arquitectura de Solución**
+     Prototipos de Interfaces de Usuario (Wireframes)
+      
+<br><br>
+
+### **2. Buyer Persona**
+
+### **3. Público Objetivo**
+
+### **4. Diseño UX - UI (Figma)**
 
 
 
