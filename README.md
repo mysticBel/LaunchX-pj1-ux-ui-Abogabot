@@ -1,4 +1,4 @@
-# LaunchX-pj1-ux-ui-Abogabot
+# LaunchX-Abogabot
 
 Primer proyecto de la Mission Front-End para LaunchX LATAM.
 
@@ -17,7 +17,7 @@ Primer proyecto de la Mission Front-End para LaunchX LATAM.
 
 # *Desarrollo*
 
-### **1. Formato de Especificación de Requerimientos de Software**
+## **1. Formato de Especificación de Requerimientos de Software**
 
   **1.1. Descripción General del Requerimiento**
    <br>
@@ -57,13 +57,16 @@ Primer proyecto de la Mission Front-End para LaunchX LATAM.
   **1.5. Diseño de la Arquitectura de Solución**
      Prototipos de Interfaces de Usuario (Wireframes)
       
-<br><br>
+<br>
 
-### **2. Buyer Persona**
+## **2. Buyer Persona**
+![Buyer Persona](./buyerPersona.png)
+Se puede observar también en el siguiente link :https://www.hubspot.es/make-my-persona?persona=-NFydqaTisj24VXlNso1
+<br>
 
-### **3. Público Objetivo**
+## **3. Público Objetivo**
 
-### **4. Diseño UX - UI (Figma)**
+## **4. Diseño UX - UI (Figma)**
 
 
 
